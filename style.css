@@ -1,0 +1,24 @@
+body {
+
+}
+
+.principal{
+    background: #000000;
+    padding: 30px;
+
+}
+
+.itens{
+    font-style: italic;
+    text-align: left;
+
+}
+
+.beneficios{
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
